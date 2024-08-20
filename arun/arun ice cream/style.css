@@ -1,0 +1,146 @@
+.bg-container-home{
+    background-color:#ffffff;
+    background-size: cover;
+}
+.img-arun{
+    padding: 15px;
+    height:26vh;
+    margin: 20px;
+}
+.details-page1{
+    padding:18px;
+    margin: 28px;
+    color: #616961;
+    font-family: "roboto";
+    font-size: 19px;
+    margin-right: 10px;
+    text-align: center;
+}
+.shake-container{
+    background-image: url('https://www.arunicecreams.in/images/home/shakes-home-banner.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+.button-home-page{
+    text-align: center;
+    font-family: "roboto";
+    width: 7vw;
+    height: 5vh;
+    border-radius: 6px;
+    border-width: 1px;
+    color: #413839;
+    background-color: #ffffff;
+    border-color: aqua;
+    margin-right: 9px;
+}
+.button-container{
+    padding-left: 50px;
+}
+.ibar-container{
+    background-image: url('https://arunicecreams.in/images/home/ibar-banner.jpg');
+    height: 100vh;
+    background-size: cover;
+    width: 100vw;  
+}
+.icone-container{
+    background-image: url('https://arunicecreams.in/images/home/icone-banner.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+.sandwich-container{
+    background-image: url('https://arunicecreams.in/images/home/sandwich-banner.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    
+}
+.tubs-container{
+    background-image: url('https://www.arunicecreams.in/images/home/tubs-banner.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+.bg-container{
+    padding: 20px;
+}
+.button-ibar{
+    padding-left: 17vw;
+}
+.button-tubs{
+    padding-top: 45vh;
+    padding-left: 17vw;
+}
+.button-icone{
+    padding-top: 75vh;
+    padding-left: 17vw;
+}
+.button-sandwich{
+    padding-top: 45vh;
+    padding-left: 17vw;
+}
+
+.about-head{
+    padding:18px;
+    color: #b21807;
+    font-family: "roboto";
+    font-size: 30px;
+    font-weight: 500;   
+}
+.about-ph{
+      font-size: 15px;
+      font-family: "roboto";
+}
+.ice-img{
+    height: 20vh;
+}
+.product-head{
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: 300; 
+    color: #b21807;
+}
+.product-ph{
+    font-family: "roboto";
+    font-size: 15px;
+}
+.img-container{
+    margin: 20px;
+    padding-left: 20px;
+}
+.Contact-card{
+    font-family: "roboto";
+    font-size: 19px;
+    font-weight: 500;
+    margin-right: 30px;
+    
+}
+.media-vidio-card{
+    padding: 12px;
+}
+.video-media{
+    margin-right: 12px;
+}
+.video-head{
+    font-family: "roboto";
+    font-size: 19px;
+    font-weight: 500;
+    color:#b21807;
+    
+}
+.head-detail-viwe-product{
+    font-family: "roboto";
+    font-size: 25px;
+    font-weight: 500;
+    color: red;
+}
+.ph-detail-viwe-product{
+    font-family: "roboto";
+    font-size: 19px;
+    color: #616961;
+}
+.carousel-img{
+    width: 50vh;
+    text-align: center;
+}
